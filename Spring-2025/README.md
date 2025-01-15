@@ -1,9 +1,10 @@
 See examples
 
+https://github.com/DeepLcom/deepl-python
 https://developers.deepl.com/docs/api-reference/languages
 
 1. Clone repo locally
-2. get `DEEPL_KEY` value from instructor
-3. copy `env_sample` to `.env`
-4. update `DEEPL_KEY` value
+2. Get `DEEPL_KEY` value from instructor
+3. Copy `env_sample` to `.env`
+4. Update `DEEPL_KEY` value
 5. Run notebook
